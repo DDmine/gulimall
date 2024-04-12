@@ -1,2 +1,2 @@
 # gulimall
-java
+谷粒商城
